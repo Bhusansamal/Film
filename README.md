@@ -14,7 +14,7 @@
 - **Netlify**: Hosting and deployment.
 
 ## Live Demo
-Check out the live version of the app at: [Mo-Vix](https://mo-vix.netlify.app/)
+Check out the live version of the app at: [Movix](https://mo-vix.netlify.app/)
 
 
 ![Screenshot (25)](https://github.com/user-attachments/assets/f062c4f8-a378-48d8-99c8-d8d4d3516810)
