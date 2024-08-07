@@ -1,6 +1,6 @@
-# Mo-Vix
+# Movix
 
-**Mo-Vix** is a web application built with React JS that utilizes the TMDB (The Movie Database) API to provide information on movies and TV shows. The app features a sleek interface and offers a range of functionalities to help users discover and explore film and television content.
+**Movix** is a web application built with React JS that utilizes the TMDB (The Movie Database) API to provide information on movies and TV shows. The app features a sleek interface and offers a range of functionalities to help users discover and explore film and television content.
 
 ## Features
 - **Movie and TV Show Data**: Fetch detailed information on movies and TV shows, including ratings, genres, and overviews.
